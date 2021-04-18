@@ -1,0 +1,13 @@
+body{
+    background-color:#515151
+    
+}
+.navbar {
+    background: #1E1E1E;
+}
+
+
+
+#formulario-pergunta{
+    margin-top: 5vh; /* VH = altura da tela */ 
+}
